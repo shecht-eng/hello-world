@@ -1,2 +1,3 @@
 # hello-world
 positive-ideal a repository...
+Hi I'm Stacy trying to learn powershell today.
